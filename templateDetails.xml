@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>nysa</name>
+	<version>0.1</version>
+	<creationDate>12/28/2016</creationDate>
+	<author>Misa Cvetkovic</author>
+	<authorEmail>misa.cvetkovic01@gmail.com</authorEmail>
+	<copyright>Copyright (C) 2016 Misa Cvetkovic. All rights reserved.</copyright>
+	<description>Nysa Template Development</description>
+	<files>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>index.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>offline.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<folder>css</folder>
+		<folder>fonts</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+	</files>
+</extension>
